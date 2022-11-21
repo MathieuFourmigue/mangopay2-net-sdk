@@ -1,0 +1,2 @@
+CHANGELOG.md  MangoPay.SDK	  NuGet.Config	deploy.sh
+Hello.txt     MangoPay.SDK.Tests  README.md	mangopay2-net-sdk.sln
